@@ -1,0 +1,31 @@
+Case Study: Customer Churn Prediction 
+
+Background:
+A leading telecommunications company, is facing a significant challenge with customer churn. The company has been experiencing a high rate of customer attrition, leading to revenue loss and a decline in market share. To address this issue, it wants to implement a machine learning solution for predicting customer churn.
+
+Objective:
+The objective of this project is to develop a predictive model that can accurately identify customers who are likely to churn. By proactively identifying at-risk customers, the company aims to implement targeted retention strategies to reduce churn and improve customer satisfaction and loyalty.
+
+Data Description:
+The dataset contains historical customer data including demographic information, service usage, account information, churn status etc. 
+
+The dataset is labeled, with churn status as the target variable (binary: churned or not churned).
+
+Tasks:
+* Data Exploration and Preprocessing:
+* Feature Importance Analysis
+* Model Selection and Evaluation
+
+Deliverables:
+* Jupyter Notebook documenting the end-to-end process (Note: Code should carry the relevant comments, wherever required)
+* Presentation summarising key findings, insights, and recommendations
+
+Evaluation Criteria:
+Candidates will be evaluated based on their ability to:
+* Understand and interpret the dataset.
+* Perform data preprocessing and feature engineering effectively.
+* Select appropriate machine learning algorithms and tune hyper-parameters.
+* Evaluate model performance using relevant metrics.
+* Provide actionable insights.
+
+
